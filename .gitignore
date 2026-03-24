@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Research / reference files (not part of the deployable site)
+www_nexusbioquest_com.html
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.bak
+
+# Private documents
+*.pdf
