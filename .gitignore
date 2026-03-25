@@ -21,3 +21,5 @@ www_nexusbioquest_com.html
 
 # Private documents
 *.pdf
+
+.vercel
